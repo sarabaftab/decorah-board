@@ -1,0 +1,25 @@
+/* src/RestaurantCard.css */
+.card {
+  background: rgb(7, 132, 111);
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  text-align: left;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h2 {
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.card a {
+  display: inline-block;
+  margin-top: 0.5rem;
+  color: #fff049;
+  text-decoration: none;
+}
