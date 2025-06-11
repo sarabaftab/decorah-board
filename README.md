@@ -27,21 +27,9 @@ This project highlights events or resources for a specific community—in this c
 - ✅ Each card includes name, cuisine, hours, description, and website
 - ✅ Cohesive visual theme
 
----
-
-## 🖼️ Screenshots
-
-> You can add additional screenshots here if you'd like
-
----
-
 ## 🛠 Tech Stack
 
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - JavaScript (ES6+)
 - HTML5 + CSS3
-
----
-
-## 📁 File Structure
