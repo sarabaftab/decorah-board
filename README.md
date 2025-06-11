@@ -6,7 +6,7 @@ A community board web app built with React + Vite to showcase local restaurants 
 
 ## 🎥 Demo
 
-![App Demo](./demo.gif)
+![App Demo](./deco-board-demo.gif)
 
 <!-- Replace `demo.gif` with your GIF or video file. For video, use something like:
 [Watch Demo on YouTube](https://youtu.be/YOUR_VIDEO_LINK) -->
